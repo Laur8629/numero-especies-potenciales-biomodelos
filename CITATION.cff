@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "Si usas este software, por favor cítalo como se indica abajo."
-title: "Numero de especies BioModelos"
+title: "Numero de especies Potenciales BioModelos"
 authors:
-  - family-names: "Garcia"
-    given-names: "Laura"
+  - family-names: "Garcia Castro"
+    given-names: "Laura Sofia"
     affiliation: "Instituto de Investigación de Recursos Biológicos Alexander von Humboldt"
 version: "0.1.0"
 doi: "10.5281/zenodo.17038514"
