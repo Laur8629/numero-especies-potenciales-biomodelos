@@ -160,7 +160,7 @@ Los tests básicos verifican:
 ## 📜 Licencia
 
 Este proyecto está licenciado bajo **MIT License**.  
-Consulta (LICENSE) para más información.
+Consulta [LICENSE](./LICENSE) para más información.
 
 ---
 
@@ -182,6 +182,7 @@ Si usas este software en tu investigación, por favor cítalo así:
   url          = {https://github.com/Laur8629/Numero-de-especies-BioModelos}
 }
 ```
+
 
 
 
