@@ -156,6 +156,9 @@ Consulta (LICENSE) para más información.
 ---
 
 ## 📖 Citación
+El detalle de las citas utilizadas en el proyecto está en el siguiente archivo:
+
+- [citas.Rmd](./citas.Rmd)
 
 Si usas este software en tu investigación, por favor cítalo así:
 
@@ -170,5 +173,6 @@ Si usas este software en tu investigación, por favor cítalo así:
   url          = {https://github.com/Laur8629/Numero-de-especies-BioModelos}
 }
 ```
+
 
 
