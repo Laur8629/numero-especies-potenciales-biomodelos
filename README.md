@@ -4,12 +4,16 @@ Permite identificar qué **especies** (modeladas como archivos **TIFF**) están 
 Opcionalmente, los resultados pueden cruzarse con una base de datos externa en CSV/TSV.
 
 ---
-## Pre requisitos 
+## 🧩 Prerrequisitos
+
+Antes de ejecutar este proyecto, asegúrate de tener instaladas las siguientes dependencias:
+
 numpy>=1.26,<2.0
 pandas>=2.0
 rasterio>=1.3
 geopandas>=0.14
 fiona>=1.9
+
 ## 📂 Estructura del Proyecto
 
 ```
@@ -178,6 +182,7 @@ Si usas este software en tu investigación, por favor cítalo así:
   url          = {https://github.com/Laur8629/Numero-de-especies-BioModelos}
 }
 ```
+
 
 
 
